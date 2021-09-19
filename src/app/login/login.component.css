@@ -1,0 +1,28 @@
+.page {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.header {
+    height: 280;
+    background-color: grey;
+    padding: 30;
+}
+
+.app-name {
+    margin-top: 30%;
+    font-size: 30px;
+}
+
+.login {
+    font-size: 25px;
+}
+.form {
+flex-grow: 2;
+padding: 30;
+}
+
+.icons {
+    font-size: 25px;
+    padding: 30px;
+}
